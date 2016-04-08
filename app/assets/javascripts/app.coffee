@@ -1,0 +1,2 @@
+ligero = angular.module('ligero', [
+])
